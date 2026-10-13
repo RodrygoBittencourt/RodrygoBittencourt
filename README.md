@@ -112,9 +112,4 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=RodrygoBittencourt&color=4B75FF&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil"
-    alt="Visualizações do Perfil"
-  />
-</p>
+
