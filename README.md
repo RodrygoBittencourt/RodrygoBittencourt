@@ -77,8 +77,8 @@
 </p>
 -->
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
-<!-- 
+ ======================= CONTRIBUTIONS ======================= 
+
 <h2 align="center">Contributions</h2>
 
 <p align="center">
@@ -97,7 +97,7 @@
     />
   </picture>
 </p>
--->
+
 
 ### Contato
 
