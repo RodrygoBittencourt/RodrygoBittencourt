@@ -65,7 +65,7 @@
 
 ---
 
- ======================= GITHUB ACTIVITY =======================
+                                 ======================= GITHUB ACTIVITY =======================
 
 <h2 align="center">GitHub Activity</h2>
 
@@ -77,7 +77,7 @@
 </p>
 
 
- ======================= CONTRIBUTIONS ======================= 
+                                 ======================= CONTRIBUTIONS ======================= 
 
 <h2 align="center">Contributions</h2>
 
